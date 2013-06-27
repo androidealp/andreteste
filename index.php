@@ -7,4 +7,6 @@
 
 echo "teste";
 
+Echo "teste";
+
 ?>
