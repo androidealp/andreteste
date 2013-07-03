@@ -9,4 +9,9 @@ echo "teste";
 
 Echo "teste";
 
+function teste(){
+return "teste";    
+    
+}
+
 ?>
